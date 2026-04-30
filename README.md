@@ -5,7 +5,7 @@
 
 Yummy Bites is an online food ordering website developed to provide a simple and user-friendly platform for customers to browse menus and place orders digitally. The project focuses on delivering a smooth ordering experience for restaurant users.
 
-## 🚀 Features
+# 🚀 Features
 
 * Browse food menu with categories
 * Add items to cart and place orders
