@@ -1,0 +1,8 @@
+Homepage: http://localhost/yummybites/index1.html
+
+_____Admin Login: http://localhost/yummybites/admin/login.php______
+
+backend admin:"""""" http://localhost/yummybites/admin.php""""
+
+http://localhost/yummybites/index1.html
+http://localhost/yummybites/about1.html
